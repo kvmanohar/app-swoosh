@@ -33,16 +33,16 @@
                                 <rect key="frame" x="128" y="40" width="119" height="20"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="GO ALL IN" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ARt-g5-iGm">
-                                <rect key="frame" x="67.5" y="145" width="240" height="66"/>
+                                <rect key="frame" x="68" y="145" width="239.5" height="66"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="240" id="qgy-5I-bJ9"/>
+                                    <constraint firstAttribute="width" constant="240" id="mBq-YK-rzG"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="48"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Find a team in your city &amp; dominate the leagues" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dz1-li-fQv">
-                                <rect key="frame" x="67.5" y="264" width="240" height="44"/>
+                                <rect key="frame" x="68" y="264" width="239.5" height="44"/>
                                 <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="16"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
@@ -59,7 +59,7 @@
                                 </state>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ON GOING ALL OUT" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Isn-bG-l5s">
-                                <rect key="frame" x="67.5" y="211" width="240" height="33"/>
+                                <rect key="frame" x="69.5" y="211" width="237" height="33"/>
                                 <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="24"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
@@ -76,21 +76,20 @@
                             <constraint firstItem="IwM-m0-XU8" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="X4b-Fj-NUM"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="ZBN-Ji-V3O" secondAttribute="trailing" constant="16" id="afF-b1-0r3"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="ZBN-Ji-V3O" secondAttribute="bottom" constant="40" id="bAy-uK-3Fz"/>
-                            <constraint firstItem="Isn-bG-l5s" firstAttribute="width" secondItem="ARt-g5-iGm" secondAttribute="width" id="ccQ-3Z-pfk"/>
                             <constraint firstItem="ZBN-Ji-V3O" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="fbz-4v-vdQ"/>
                             <constraint firstItem="dz1-li-fQv" firstAttribute="top" secondItem="Isn-bG-l5s" secondAttribute="bottom" constant="20" id="gJJ-l9-QdU"/>
                             <constraint firstItem="s3u-ED-gnM" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="kRB-Sg-PnO"/>
                             <constraint firstItem="Isn-bG-l5s" firstAttribute="top" secondItem="ARt-g5-iGm" secondAttribute="bottom" id="mam-Nc-T41"/>
                             <constraint firstItem="dz1-li-fQv" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="oob-Qe-DG2"/>
-                            <constraint firstItem="dz1-li-fQv" firstAttribute="width" secondItem="Isn-bG-l5s" secondAttribute="width" id="pot-tI-lfS"/>
                             <constraint firstItem="IwM-m0-XU8" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="rxf-i4-QNn"/>
+                            <constraint firstItem="dz1-li-fQv" firstAttribute="width" secondItem="ARt-g5-iGm" secondAttribute="width" id="ucW-Fm-vKY"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-286" y="94"/>
+            <point key="canvasLocation" x="-287.19999999999999" y="93.103448275862078"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="iFH-0u-Rw7">
